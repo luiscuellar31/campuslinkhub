@@ -10,6 +10,8 @@ CampusLinkHub es un proyecto diseñado para ofrecer a la comunidad universitaria
 
 - **Enlaces a Servicios Estudiantiles:** Información sobre servicios estudiantiles, como asesoramiento académico, servicios de salud y actividades extracurriculares.
 
+- **Recursos de la Biblioteca:** Acceso a catálogos en línea, bases de datos de investigación y recursos de la biblioteca.
+
 - **Mapa del Campus:** Una herramienta que muestra la ubicación de edificios, aulas y otros puntos de interés en el campus.
 
 El objetivo de CampusLinkHub es simplificar la experiencia universitaria al proporcionar un único punto de acceso para toda la información y los servicios que los estudiantes, profesores y personal pueden necesitar en su vida diaria en la universidad. Este proyecto se enfoca en mejorar la eficiencia y la accesibilidad de los recursos del campus y en crear una comunidad en línea cohesionada.
