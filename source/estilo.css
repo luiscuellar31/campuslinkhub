@@ -1,6 +1,9 @@
 /* Estilos para la barra superior */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 .navbar {
-    background-color: #333;
+    background-color: #006953;
     color: #fff;
     display: flex;
     justify-content: space-between;
@@ -13,7 +16,8 @@
 }
 
 .logo img {
-    max-height: 40px;
+    max-height: 30px;
+    margin-top: 4px;
 }
 
 /* Estilos para el cuadro flotante */
@@ -45,4 +49,23 @@
     right: 10px;
     font-size: 20px;
     cursor: pointer;
+}
+
+.menu-button-size {
+    font-size: 1.5em;
+    color: #006953;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    margin: 30px;
+}
+
+h1, h2, h3 {
+    color: #006953;
+}
+
+.green-color {
+    color: #006953;
 }
